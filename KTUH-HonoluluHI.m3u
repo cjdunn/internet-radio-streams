@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1,KZSC
+http://streaming.kzsc.org:8000/kzschigh.m3u
+
