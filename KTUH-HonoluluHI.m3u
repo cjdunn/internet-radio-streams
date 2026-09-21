@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,KZSC
-http://streaming.kzsc.org:8000/kzschigh.m3u
+#EXTINF:-1,KTUH-Honolulu
+https://stream.ktuh.org:8001/stream
 
